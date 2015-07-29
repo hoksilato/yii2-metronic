@@ -3,8 +3,6 @@ Metronic - Admin Dashboard Template for the Yii framework
 
 *Backend UI for Yii2 Framework, based on [Metronic - Admin Dashboard Template](http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469)*
 
-!["Yii2 AdminLTE Presentation"](https://cloud.githubusercontent.com/assets/874234/7603896/753228ee-f943-11e4-9d42-2a31b41eb42d.jpg)
-
 This package contains an [Asset Bundle for Yii 2.0 Framework](http://www.yiiframework.com/doc-2.0/guide-structure-assets.html)
 which registers the CSS files for the Metronic user-interface.
 
