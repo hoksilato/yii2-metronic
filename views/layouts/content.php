@@ -174,20 +174,9 @@ $this->params['breadcrumbs'] = [
                 [
                     'itemTemplate' => "<li>{link}<i class='fa fa-circle'></i></li>\n", // template for all links
                     'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
+                    'options' => ['class' => 'page-breadcrumb breadcrumb'],
                 ]
             ) ?>
-            <ul class="page-breadcrumb breadcrumb">
-                <li>
-                    <a href="#">Home</a><i class="fa fa-circle"></i>
-                </li>
-                <li>
-                    <a href="layout_blank_page.html">Features</a>
-                    <i class="fa fa-circle"></i>
-                </li>
-                <li class="active">
-                     Blank Page Layout
-                </li>
-            </ul>
             <!-- END PAGE BREADCRUMB -->
             <!-- BEGIN PAGE CONTENT INNER -->
             <div class="row">

@@ -19,7 +19,7 @@ class MetronicAsset extends AssetBundle
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@hoksilato/yii2-metronic/assets/static';
+    public $sourcePath = '@vendor/hoksilato/yii2-metronic/assets/static';
 
     /**
      * @inheritdoc

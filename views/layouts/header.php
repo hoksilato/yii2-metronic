@@ -245,7 +245,7 @@ use yii\bootstrap\NavBar;
                                     <li>
                                         <a href="inbox.html?a=view">
                                         <span class="photo">
-                                        <img src="<?= $directoryAsset ?>/admin/layout3/img/avatar2.jpg" class="img-circle" alt="">
+                                        <img src="<?= $directoryAsset ?>/admin/img/avatar2.jpg" class="img-circle" alt="">
                                         </span>
                                         <span class="subject">
                                         <span class="from">
@@ -259,7 +259,7 @@ use yii\bootstrap\NavBar;
                                     <li>
                                         <a href="inbox.html?a=view">
                                         <span class="photo">
-                                        <img src="<?= $directoryAsset ?>/admin/layout3/img/avatar3.jpg" class="img-circle" alt="">
+                                        <img src="<?= $directoryAsset ?>/admin/img/avatar3.jpg" class="img-circle" alt="">
                                         </span>
                                         <span class="subject">
                                         <span class="from">
@@ -273,7 +273,7 @@ use yii\bootstrap\NavBar;
                                     <li>
                                         <a href="inbox.html?a=view">
                                         <span class="photo">
-                                        <img src="<?= $directoryAsset ?>/admin/layout3/img/avatar1.jpg" class="img-circle" alt="">
+                                        <img src="<?= $directoryAsset ?>/admin/img/avatar1.jpg" class="img-circle" alt="">
                                         </span>
                                         <span class="subject">
                                         <span class="from">
@@ -287,7 +287,7 @@ use yii\bootstrap\NavBar;
                                     <li>
                                         <a href="inbox.html?a=view">
                                         <span class="photo">
-                                        <img src="<?= $directoryAsset ?>/admin/layout3/img/avatar2.jpg" class="img-circle" alt="">
+                                        <img src="<?= $directoryAsset ?>/admin/img/avatar2.jpg" class="img-circle" alt="">
                                         </span>
                                         <span class="subject">
                                         <span class="from">
@@ -301,7 +301,7 @@ use yii\bootstrap\NavBar;
                                     <li>
                                         <a href="inbox.html?a=view">
                                         <span class="photo">
-                                        <img src="<?= $directoryAsset ?>/admin/layout3/img/avatar3.jpg" class="img-circle" alt="">
+                                        <img src="<?= $directoryAsset ?>/admin/img/avatar3.jpg" class="img-circle" alt="">
                                         </span>
                                         <span class="subject">
                                         <span class="from">
@@ -320,7 +320,7 @@ use yii\bootstrap\NavBar;
                     <!-- BEGIN USER LOGIN DROPDOWN -->
                     <li class="dropdown dropdown-user dropdown-dark">
                         <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-                        <img alt="" class="img-circle" src="<?= $directoryAsset ?>/admin/layout3/img/avatar9.jpg">
+                        <img alt="" class="img-circle" src="<?= $directoryAsset ?>/admin/img/avatar9.jpg">
                         <span class="username username-hide-mobile">Nick</span>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-default">

@@ -6,7 +6,7 @@ use yii\helpers\Html;
 
 hoksilato\metronic\assets\MetronicAsset::register($this);
 
-$directoryAsset = Yii::$app->assetManager->getPublishedUrl('@hoksilato/yii2-metronic/assets/static');
+$directoryAsset = Yii::$app->assetManager->getPublishedUrl('@vendor/hoksilato/yii2-metronic/assets/static');
 ?>
 
 <?php $this->beginPage() ?>
